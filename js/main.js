@@ -1,3 +1,4 @@
+//Written with Team Moses
 //declaration of object properties
 //clickValue holds the winning arrays
 let gameBoard = {
